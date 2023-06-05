@@ -3,11 +3,16 @@ Welcome to the rhythmic world of sound, where melodies soar and beats ignite the
 
 Here, we celebrate the universal language that transcends boundaries, uniting people from all walks of life. Whether you're a devoted audiophile, an aspiring musician, or simply someone seeking solace in a symphony, our website is your gateway to an immersive musical experience like no other.
 
+![Screenshot (108)](https://github.com/Ankita19soni/MuPlay/assets/132035991/d15bd0d6-54e6-47aa-87f3-4e60cf14c4d8)
+
 Delve into the depths of our diverse catalog, where genres intertwine and musical treasures await your eager ears. From classical compositions that stir the emotions to pulsating rhythms that ignite your senses, we curate an extensive collection that spans across time and cultures.
 
 But we are more than just a digital library of songs. Our music website is a vibrant community, fostering connections and conversations among fellow enthusiasts. Engage in lively discussions, discover emerging artists, and share your own musical journey with kindred spirits who understand the indescribable power of a perfectly crafted melody.
 
 We are committed to providing a platform where creativity thrives and voices are heard. Discover exclusive interviews with renowned musicians, insightful articles exploring the art and science of music, and behind-the-scenes glimpses into the process of creating unforgettable masterpieces.
+
+![Screenshot (109)](https://github.com/Ankita19soni/MuPlay/assets/132035991/ee05b7e3-430b-495b-8256-4cce9049aa70)
+
 
 Whether you seek inspiration, entertainment, or the simple joy of getting lost in a symphony, our music website is here to accompany you on your quest for sonic bliss. So, tune in, explore the melodies that resonate with your soul, and let the power of music elevate your spirit to new heights.
 
